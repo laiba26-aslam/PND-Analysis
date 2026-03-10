@@ -100,10 +100,10 @@ PAA-PND-Dashboard/
 ### Steps to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/PAA-PND-Dashboard.git
+   git clone https://github.com/laiba26-aslam/PND-Analysis/.git
    ```
 2. **Open the report**  
-   Open `PND_Dashboard.pbix` in Power BI Desktop
+   Open `project2 paa.pbix` in Power BI Desktop
 
 3. **Refresh data** *(if connecting to live source)*  
    Go to `Home → Refresh` and update data source credentials if prompted

@@ -25,7 +25,8 @@ The **PND Dashboard** is an interactive Power BI report built for the Pakistan A
 
 ## 📷 Dashboard Preview
 
-![PND Dashboard](dashboard_preview.png)
+<img width="1029" height="526" alt="image" src="https://github.com/user-attachments/assets/dd8c7a4e-0411-41f7-8bbc-30ae88ff39ed" />
+
 
 The dashboard includes:
 - **KPI Cards** — Classification count, Total Types, Total Locations, Total Sectors, All Directorates
